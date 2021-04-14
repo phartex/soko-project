@@ -1,0 +1,26 @@
+
+
+
+.item-img{
+    display: flex;
+    position: relative;
+    
+}
+.item-img img{
+    border-radius: 10px;
+    height: 80px;
+}
+.item-img .middle{
+    margin-left: 15px;
+}
+.item-img button{
+    position: absolute;
+    margin-left: 280px;
+    margin-top: 40px;
+    background: none;
+    border:1px solid blue;
+    color: blue;
+    font-weight: 600;
+    width: 80px;
+    padding: 0.3em;
+}

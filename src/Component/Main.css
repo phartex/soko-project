@@ -1,0 +1,29 @@
+
+
+.items{
+    margin-top: 2em;
+}
+
+.main_left{
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
+}
+.main_center{
+    border-right : 1px solid grey;
+}
+
+.main_right{
+   
+    border-right : 1px solid grey;
+}
+.main_right button{
+       background: blue;
+    border:1px solid blue;
+    color: #fff;
+    font-weight: 600;
+    width: 30px;
+    padding: 0.3em;
+}
+.smile{
+    width: 900px;
+}

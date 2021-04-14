@@ -1,0 +1,28 @@
+
+
+.target_left{
+    display: flex;
+}
+.target_right{
+    margin-left: 30px;
+}
+.bag{
+    display: flex; 
+}
+
+.para{
+    margin-left: 10px;
+}
+
+.bag_left, .bag_right{
+    display: flex;
+    text-align: center;
+    
+}
+.bag_left{
+    justify-content: space-around;
+    margin-left: 300px;
+}
+.bag_right{
+    margin-left: 140px;
+}

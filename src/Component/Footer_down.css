@@ -1,0 +1,19 @@
+.footer_down{
+    font-size: 20px;
+}
+.footer{
+    padding: 1em;
+}
+button{
+    border: none;
+    background: green;
+    padding: 0.8em;
+    color: #fff;
+    border-radius: 10px;
+    
+}
+
+button img{
+    filter: invert();
+    width: 30px;
+}
